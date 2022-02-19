@@ -1,0 +1,22 @@
+export const DataStat = [
+    {
+        name:"Users",
+        start:'0',
+        end:''
+    },
+    {
+        name:"Quizzes",
+        start:'0',
+        end:''
+    },
+    {
+        name:"Questions",
+        start:'0',
+        end:''
+    },
+    {
+        name:"Events",
+        start:'0',
+        end:''
+    }
+]
